@@ -1,0 +1,33 @@
+#header-top-day{
+ color:rgb(244, 193, 40);
+ background: rgb(232, 32, 43);
+}
+.text-menue{
+    color:rgb(3, 3, 3);
+    align-items:left;
+}
+#main-weekly{
+    color: rgb(232, 32, 43);
+    margin:auto;
+}
+#cardbody{
+    background:rgb(244, 193, 40);
+}
+@media (max-width: 768px) {
+    .card img {
+      height: 150px;
+    }
+    .text-menue {
+        font-size: 12px;
+      }
+    }
+
+@media (max-width: 384px) {
+        .card img {
+          width: 150px;
+          margin: auto;
+        }
+        .text-menue {
+            font-size: 12px;
+          }
+        }
