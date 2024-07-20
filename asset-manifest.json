@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6395afeb.css",
+    "main.js": "/static/js/main.f59e6fb1.js",
+    "static/media/top backgroundd.gif": "/static/media/top backgroundd.49690c41266269f0834b.gif",
+    "static/media/Add a heading.png": "/static/media/Add a heading.f87a9964de2e93a6bc56.png",
+    "static/media/nominal.png": "/static/media/nominal.b66cfdde96f1071fa54f.png",
+    "static/media/exclusive tiffin.png": "/static/media/exclusive tiffin.89bf6dcc116b8edd2773.png",
+    "static/media/delux toffin.png": "/static/media/delux toffin.e586f5134313588a4c88.png",
+    "static/media/tiffinwala banner.jpg": "/static/media/tiffinwala banner.6fecefa5da7c54ceb0bc.jpg",
+    "static/media/THU SUN.png": "/static/media/THU SUN.f01b672e7d4fced5b6b9.png",
+    "static/media/SUN WED.png": "/static/media/SUN WED.4d9a83abb8f59151315e.png",
+    "static/media/FRI MON.png": "/static/media/FRI MON.68f134761bad7f53f967.png",
+    "static/media/WED SAT.png": "/static/media/WED SAT.f6e8c2a633b763f795f6.png",
+    "static/media/SAT TUE.png": "/static/media/SAT TUE.368b3ccf1fa587e5d0a9.png",
+    "static/media/TUE FRI.png": "/static/media/TUE FRI.acd1e1443e0db1213c46.png",
+    "static/media/MON THU.png": "/static/media/MON THU.fc5c87ed992f1f70d0c6.png",
+    "static/media/DTW-removebg-preview.png": "/static/media/DTW-removebg-preview.c01b3a0b48210722f57f.png",
+    "static/media/dtw small.png": "/static/media/dtw small.ed966f08968ee0398bc4.png",
+    "static/media/Samarkan Normal.ttf": "/static/media/Samarkan Normal.917d68d5a10d22b2a4fc.ttf",
+    "static/media/icons8-facebook.gif": "/static/media/icons8-facebook.848cb04c93641ff0f225.gif",
+    "static/media/angle.png": "/static/media/angle.c61b399ca21f24bedaed.png",
+    "static/media/icons8-twitter.gif": "/static/media/icons8-twitter.343a8b24a1f31148b8c0.gif",
+    "static/media/angle1.png": "/static/media/angle1.85bfa6e01bc86b393be8.png",
+    "static/media/icons8-youtube.gif": "/static/media/icons8-youtube.90076e9f91fad65c5502.gif",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.6395afeb.css",
+    "static/js/main.f59e6fb1.js"
+  ]
+}
